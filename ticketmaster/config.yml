@@ -1,0 +1,3 @@
+ticket_repo: ~/peng-tickets
+default_retry_limit: 3
+default_project: null
